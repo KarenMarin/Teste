@@ -1,0 +1,4 @@
+Acho que eu só precisaria de uma ida a cada sala, eu ligarei o primeiro interruptor que vou chamar de interruptor 1 por uns 60 segundos e depois o desligaria, deixaria o segundo interruptor que chamarei de interruptor 2 acesso, e depois iria até as salas...
+A primeira ação é verificar a temperatura de todas as lâmpadas tocando nelas, a que estiver mais quente será referente ao interruptor 1
+A segundo e mais fácil será ver qual delas esta com a lâmpada acessa e isso indicará que ela pertence ao interruptor 2
+E a lâmpada que estiver fria é referente ao interruptor 3
